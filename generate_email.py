@@ -16,6 +16,6 @@ def trunlde(nangluong,mau):
         print("ban die")
 
 
-trunlde(50,9)
+trunlde(50,234)
 trunlde(20,8)
-trunlde(150,60)
+trunlde(150,1000)
