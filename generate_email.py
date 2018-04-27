@@ -18,4 +18,4 @@ def trunlde(nangluong,mau):
 
 trunlde(50,9)
 trunlde(20,8)
-trunlde(150,0)
+trunlde(150,60)
