@@ -1,4 +1,4 @@
-def trunlde(nangluong,mau):
+de trunlde(nangluong,mau):
     if nangluong >=100:
         print("ban co the xai duoc  chieu cuoi(chieu r)")
     elif nangluong >=70 and nangluong < 100:
